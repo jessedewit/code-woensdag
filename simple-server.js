@@ -23,4 +23,5 @@ http.createServer( function(req, res) {
     
 }).listen(8080);
 
+//Vertel de gebruiker dat de server aan staat.
 console.log('Server is running.');
